@@ -1,0 +1,1 @@
+import { defineConfig } from 'vitest/config'; export default defineConfig({ test:{ environment:'jsdom', coverage:{ provider:'c8', reporter:['text','lcov'], statements:97, branches:97, functions:97, lines:97 } } });

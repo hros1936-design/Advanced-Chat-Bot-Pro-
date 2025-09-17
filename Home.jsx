@@ -1,0 +1,1 @@
+import React from 'react'; export default function Home(){ return (<main className='container mx-auto p-6'><section className='text-center py-12'><h2 className='text-4xl font-bold'>Advanced Chat Bot Ultra Pro+++</h2><p className='mt-4'>Enterprise GPT-5 SaaS with Voice, Payments, Analytics, and White-label.</p></section></main>); }

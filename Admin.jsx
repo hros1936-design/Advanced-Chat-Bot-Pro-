@@ -1,0 +1,1 @@
+import React from 'react'; export default function Admin(){ return (<div className='container p-6'><h2>Admin Panel</h2><p>Manage users, payments, logs.</p></div>); }
